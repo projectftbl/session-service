@@ -1,0 +1,9 @@
+{
+  "LOGGING": {
+    "LEVEL": "none"
+  }
+, "FACEBOOK": {
+    "ID": ""
+  , "SECRET": ""
+  }
+}

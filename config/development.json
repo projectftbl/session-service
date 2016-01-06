@@ -1,0 +1,12 @@
+{
+  "HOST": "http://localhost:3000"
+, "RETHINKDB": {
+    "HOST": "localhost"
+  , "PORT": 28015
+  , "DATABASE": "ftbl"
+  }
+, "REDIS": {
+    "HOST": "localhost"
+  , "PORT": 6379
+  }
+}
