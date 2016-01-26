@@ -30,7 +30,6 @@
     "@ftbl/store": "^1.0.0",
     "@ftbl/task": "^1.0.0",
     "@ftbl/utility": "^1.0.1",
-    "bcrypt": "^0.8.5",
     "bluebird": "^2.10.1",
     "lodash": "^3.10.1"
   },
