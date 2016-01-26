@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/session-service",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Session web services",
   "main": "node index",
   "scripts": {
