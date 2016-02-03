@@ -9,4 +9,10 @@
     "HOST": "localhost"
   , "PORT": 6379
   }
+
+, "RESOURCES": null
+, "SUBSCRIBERS": "null"
+, "LISTENERS": "null"
+, "STORE": "null"
+
 }

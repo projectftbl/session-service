@@ -20,6 +20,7 @@
   "dependencies": {
     "@ftbl/app": "^1.0.0",
     "@ftbl/bootstrap": "^1.0.0",
+    "@ftbl/bus": "^1.0.1",
     "@ftbl/configuration": "^1.0.0",
     "@ftbl/errors": "^1.0.0",
     "@ftbl/log": "^1.0.0",
@@ -27,8 +28,8 @@
     "@ftbl/request": "^1.0.0",
     "@ftbl/server": "^1.1.0",
     "@ftbl/social": "^1.0.0",
-    "@ftbl/store": "^1.0.0",
-    "@ftbl/task": "^1.0.0",
+    "@ftbl/store": "^1.1.2",
+    "@ftbl/task": "^1.0.1",
     "@ftbl/utility": "^1.0.1",
     "bluebird": "^2.10.1",
     "lodash": "^3.10.1"
