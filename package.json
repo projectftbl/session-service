@@ -27,7 +27,7 @@
     "@ftbl/repl": "^1.0.0",
     "@ftbl/request": "^1.0.0",
     "@ftbl/server": "^1.1.0",
-    "@ftbl/social": "^1.1.0",
+    "@ftbl/social": "^1.1.1",
     "@ftbl/store": "^1.1.2",
     "@ftbl/task": "^1.0.1",
     "@ftbl/utility": "^1.0.1",
