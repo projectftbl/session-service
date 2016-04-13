@@ -31,7 +31,7 @@
     "@ftbl/store": "^1.1.2",
     "@ftbl/task": "^1.0.1",
     "@ftbl/utility": "^1.0.1",
-    "bluebird": "^2.10.1",
+    "bluebird": "^3.0.0",
     "jsonwebtoken": "^5.7.0",
     "lodash": "^3.10.1"
   },
