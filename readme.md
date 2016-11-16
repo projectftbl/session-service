@@ -1,3 +1,3 @@
-## @ftbl/session-service
+## @recipher/session-service
 
 Session-related resources.

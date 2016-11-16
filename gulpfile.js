@@ -1,6 +1,6 @@
 var gulp = require('gulp');
 
-require('@ftbl/gulp')(gulp, { 
+require('@recipher/gulp')(gulp, { 
   test: { 
     coverage: 80
   , setup: require('./test/setup')
