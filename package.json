@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/recipher-service.git"
+    "url": "git@github.com:recipher/session-service.git"
   },
   "dependencies": {
     "@recipher/app": "^1.0.0",
