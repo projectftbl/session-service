@@ -18,7 +18,7 @@
     "url": "git@github.com:recipher/session-service.git"
   },
   "dependencies": {
-    "@recipher/app": "^1.0.0",
+    "@recipher/app": "^1.1.6",
     "@recipher/bootstrap": "^1.0.0",
     "@recipher/bus": "^1.0.1",
     "@recipher/configuration": "^1.0.0",
@@ -28,6 +28,7 @@
     "@recipher/request": "^1.0.0",
     "@recipher/server": "^1.1.0",
     "@recipher/social": "^1.1.1",
+    "@recipher/socket": "^1.1.2",
     "@recipher/store": "^1.1.2",
     "@recipher/task": "^1.0.1",
     "@recipher/utility": "^1.0.1",
