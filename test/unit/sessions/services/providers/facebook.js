@@ -36,7 +36,7 @@
 //   , request = function() { return { post: post, get: get }};
 
 // var Sut = proxyquire('../../../../../lib/apps/sessions/services/providers/facebook'
-//                           , { '@ftbl/social': social, '@ftbl/request': request, '@ftbl/task': task });
+//                           , { '@recipher/social': social, '@recipher/request': request, '@recipher/task': task });
 
 // describe.only('When using facebook provider', function() {
     
